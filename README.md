@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasyl Pavlenko</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+frontend+developer+from+Kyiv)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&width=435&lines=I'm++frontend+developer+from+Kyiv)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vasyl-pavlenko" alt="vasyl-pavlenko" /></a> </p>
 
